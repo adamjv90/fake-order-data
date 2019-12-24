@@ -1,0 +1,9 @@
+{
+  "orders": [
+    {"id": 1, "completeDate": "2019-12-24 07:07:38.453", "storeId": 1, "currentBalance": 0},
+    {"id": 2, "completeDate": "2019-12-25 07:07:38.453", "storeId": 1, "currentBalance": 1.50},
+    {"id": 3, "completeDate": "2019-12-26 07:07:38.453", "storeId": 1, "currentBalance": 0},
+    {"id": 4, "completeDate": "2019-12-27 07:07:38.453", "storeId": 1, "currentBalance": 0},
+    {"id": 5, "completeDate": "2019-12-28 07:07:38.453", "storeId": 1, "currentBalance": 0}
+  ]
+}
